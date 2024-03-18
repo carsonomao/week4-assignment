@@ -1,0 +1,18 @@
+p{
+    color: red;
+    font-size: 60px;
+}
+
+.container{
+    width: 800px;
+    height: 500px;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid brown;
+
+}
+
+.container img{
+    width: 100%;
+    height: auto;
+}
